@@ -1,1 +1,1 @@
-Create ajax call and show loader while date is recieving.
+Create ajax call and show loader while data is recieving.
